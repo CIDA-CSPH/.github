@@ -13,6 +13,23 @@ In order to be invited to CIDA-CSPH, please contact Camille Hochheimer, Ryan Pet
 ## Useful team resources on Git/GitHub
 - TBD 
 
+## Setting up pushing/pulling for new computer
+
+Let's say you are ready to push your project to GitHub, but need to first locally authenticate and make sure you are who you say you are. This might occur as a prompt when you run `git push`, and it may be annoying to sign in every time. Here are steps on how to authenticate locally using a token: 
+
+0)  Make sure you are a member of the CIDA organization
+1)	Go to your GitHub profile -> Settings -> Developer settings -> Personal access tokens
+2)	Click “Generate new token”
+3)	Set expiration date (at which time you will have to regenerate a token
+4)	Check all under “repo” (at least)
+5)	Generate the token
+6)	Copy token + paste to temporary text file 
+7)	Enter token when prompted when you attempt to push from new device
+8)	You may get an error requesting you to sign on to SSO. If so, visit the link in the output and sign into SSO.
+9)	Click on the link again, ensuring you get through to CIDA.
+10)	Re-push and enter your token again if prompted. If it worked, delete the temporary text file with your token.  
+11) You should now be able to push/pull etc without having to sign in each time. 
+
 ## Moving projects over from GitLab 
 
 1) On GitHub, navigate to "Create a new repository" [or click here](https://github.com/organizations/CIDA-CSPH/repositories/new)

@@ -59,6 +59,6 @@ git push -u origin main
 ```
 
 10) Add the remote repository to its proper GitHub Team by either a) going to the team's page -> repositories -> add repository or b) going to the repo's main page and going to settings -> Collaborators and teams -> Add teams 
-11) Notify all contributors to the project to run steps 7-10 locally ASAP
+11) Notify all contributors to the project to run steps 7-9 locally ASAP.
 
 

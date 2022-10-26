@@ -15,6 +15,10 @@ In order to be invited to CIDA-CSPH, please contact Camille Hochheimer, Ryan Pet
 
 ## Moving projects over from GitLab 
 
+:warning: GitHub has a maximum file size limit of 100MB. Follow [these instructions](https://stackoverflow.com/a/62388163) for ignoring and removing git files > 100MB. If the large files are not already located on the p-drive, copy them there by running `CIDAtools::BackupProject()` to ensure all large files are stored in the CIDA drive. Use `find . -size +100M` in Terminal or Git Bash in your repository to determine if you have any files larger than 100MB. 
+
+Once you confirm that you do not have any files over 100MB being tracked in your Git repository proceed with the steps below.  
+
 1) On GitHub, navigate to "Create a new repository" [or click here](https://github.com/organizations/CIDA-CSPH/repositories/new)
 2) Select "CIDA-CSPH" as the Owner of the new repository
 3) Name the folder the same thing as it was in GitLab with a prefix for the branch and an underscore, e.g. for a Pulmonary Branch project called "My_Project", name this "Pulmonary_My_Project"

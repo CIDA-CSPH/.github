@@ -15,7 +15,7 @@ In order to be invited to CIDA-CSPH, please contact Camille Hochheimer, Ryan Pet
 
 ## Moving projects over from GitLab 
 
-:warning: GitHub has a maximum file size limit of 100MB. Follow [these instructions](https://stackoverflow.com/a/62388163) for ignoring and removing git files > 100MB. If the large files are not already located on the p-drive, copy them there by running `CIDAtools::BackupProject()` to ensure all large files are stored in the CIDA drive. Use `find . -size +100M` in Terminal or Git Bash in your repository to determine if you have any files larger than 100MB. 
+:warning: GitHub has a maximum file size limit of 100MB and will produce warnings for files over 50MB. Follow [these instructions](https://stackoverflow.com/a/62388163) for ignoring and removing git files > 100MB. If the large files are not already located on the p-drive, copy them there by running `CIDAtools::BackupProject()` to ensure all large files are stored in the CIDA drive. Use `find . -size +100M` in Terminal or Git Bash in your repository to determine if you have any files larger than 100MB. 
 
 Once you confirm that you do not have any files over 100MB being tracked in your Git repository proceed with the steps below.  
 

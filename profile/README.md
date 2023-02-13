@@ -10,6 +10,16 @@ In order to be invited to CIDA-CSPH, please contact Camille Hochheimer, Ryan Pet
 - Each PR should have a readme.md file
 - Each PR should have a .gitignore file which tells Git not to track data and other large binary files
 
+## Upcoming Brown Bag Seminars
+Occur once a month on the second Tuesday of the month at 1:00pm.
+
+Feb 14 | SAS Macros by Alejandro Varela
+Mar 14 | 
+Apr 11 | 
+May 16 | HADES (used to be called OHDSI Methods Library) by Zhixin Lun
+
+Please send any topic requests to Wyatt Tarter or Grace Bosma
+
 ## Useful team resources on Git/GitHub
 - https://cida-csph.github.io/CIDAtools/articles/git.html 
 

@@ -18,7 +18,7 @@ Date | Topic | Presenter
 ----| --- | --- 
 Jan 10 | PASS and R Power | Souha Fares
 Feb 14 | SAS RegEx | Alejandro Varela
-Mar 14 |  |
+Mar 14 | Canceled | NA
 Apr 11 |  |
 May 16 | HADES (used to be called OHDSI Methods Library) | Zhixin Lun
 

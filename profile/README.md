@@ -11,7 +11,7 @@ In order to be invited to CIDA-CSPH, please contact Camille Hochheimer, Ryan Pet
 - Each PR should have a .gitignore file which tells Git not to track data and other large binary files
 
 ## Upcoming Brown Bag Seminars
-Occur once a month on the second Tuesday of the month at 1:00pm. Recordings are saved at ~Shared/programming_lunch_seminars
+Occur once a month on the second Tuesday of the month at noon. Recordings are saved at ~Shared/programming_lunch_seminars
   
 
 Date | Topic | Presenter
@@ -21,6 +21,7 @@ Feb 14 | SAS RegEx | Alejandro Varela
 Mar 14 | Canceled | NA
 Apr 11 | Bayesian Analysis in SAS, R, Stata | Lauren Gunn-Sandell
 May 16 | HADES (used to be called OHDSI Methods Library) | Zhixin Lun
+June 16 | Caret | Jack Pattee
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

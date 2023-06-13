@@ -24,6 +24,7 @@ May 16 | HADES (used to be called OHDSI Methods Library) | Zhixin Lun
 June 16 | Caret | Jack Pattee
 July 11 | Canceled for Summer Travel/Conference conflicts
 August 8 | Canceled for Summer Travel/Conference conflicts
+September 12 | Using CU's Alpine & Linux | Chris Mancuso
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

@@ -25,6 +25,9 @@ June 16 | Caret | Jack Pattee
 July 11 | Canceled for Summer Travel/Conference conflicts
 August 8 | Canceled for Summer Travel/Conference conflicts
 September 12 | Using CU's Alpine & Linux | Chris Mancuso
+October 10 | TBD
+November 14 | Discussion on ChatGPT | Mansooreh Ahmadian
+December 12 | TBD
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

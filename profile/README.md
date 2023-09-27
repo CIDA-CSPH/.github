@@ -16,7 +16,7 @@ Occur once a month on the second Tuesday of the month at noon. Recordings are sa
 
 Date | Topic | Presenter
 ----| --- | --- 
-November 14 | Discussion on ChatGPT | Mansooreh Ahmadian
+November 14 | Discussion on Large Language Models | Mansooreh Ahmadian
 December 12 | | Max McGrath
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma

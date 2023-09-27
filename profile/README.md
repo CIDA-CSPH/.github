@@ -16,18 +16,8 @@ Occur once a month on the second Tuesday of the month at noon. Recordings are sa
 
 Date | Topic | Presenter
 ----| --- | --- 
-Jan 10 | PASS and R Power | Souha Fares
-Feb 14 | SAS RegEx | Alejandro Varela
-Mar 14 | Canceled | NA
-Apr 11 | Bayesian Analysis in SAS, R, Stata | Lauren Gunn-Sandell
-May 16 | HADES (used to be called OHDSI Methods Library) | Zhixin Lun
-June 16 | Caret | Jack Pattee
-July 11 | Canceled for Summer Travel/Conference conflicts
-August 8 | Canceled for Summer Travel/Conference conflicts
-September 12 | Using CU's Alpine & Linux | Chris Mancuso
-October 10 | TBD
 November 14 | Discussion on ChatGPT | Mansooreh Ahmadian
-December 12 | TBD
+December 12 | | Max McGrath
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

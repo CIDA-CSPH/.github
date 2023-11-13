@@ -16,8 +16,9 @@ Occur once a month on the second Tuesday of the month at noon. Recordings are sa
 
 Date | Topic | Presenter
 ----| --- | --- 
-November 14 | Discussion on Large Language Models | Mansooreh Ahmadian
-December 12 | | Max McGrath
+November 14 | Tech Support "Office Hours" (including GitHub questions) | 
+December 12 | Discussion on Large Language Models (i.e. Chat GPT) | Mansooreh Ahmadian
+January 9 | | Max McGrath
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

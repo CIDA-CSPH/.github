@@ -18,7 +18,7 @@ Date | Topic | Presenter
 ----| --- | --- 
 November 14 | Tech Support "Office Hours" (including GitHub questions) | 
 December 12 | Discussion on Large Language Models (i.e. Chat GPT) | Mansooreh Ahmadian
-January 9 | | Max McGrath
+January 9 | Multithreading | Max McGrath
 
 Please send any topic requests to Wyatt Tarter or Grace Bosma
 

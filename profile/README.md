@@ -23,7 +23,7 @@ February 13 | |
 March 12 | Python Panel | Chris Mancuso, Mengli Xiao
 
 
-Please send any topic requests to Wyatt Tarter or Grace Bosma
+Please send any topic requests to Grace Bosma
 
 ## Useful team resources on Git/GitHub
 - https://cida-csph.github.io/CIDAtools/articles/git.html 

@@ -21,6 +21,7 @@ December 12 | Discussion on Large Language Models (i.e. Chat GPT) | Mansooreh Ah
 January 9 | Parallel Processing in R | Max McGrath
 March 12 | Python Panel | Chris Mancuso, Mengli Xiao
 May 14 | Structural Equations | Rachel Johnson
+June 11 | Tidyverse | Conner Jackson
 
 Please send any topic requests to Grace Bosma
 

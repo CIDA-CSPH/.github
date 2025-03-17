@@ -16,12 +16,8 @@ Occur once a month on the second Tuesday of the month at noon. Recordings are sa
 
 Date | Topic | Presenter
 ----| --- | --- 
-November 14 | Tech Support "Office Hours" (including GitHub questions) | 
-December 12 | Discussion on Large Language Models (i.e. Chat GPT) | Mansooreh Ahmadian
-January 9 | Parallel Processing in R | Max McGrath
-March 12 | Python Panel | Chris Mancuso, Mengli Xiao
-May 14 | Structural Equations | Rachel Johnson
-June 11 | Tidyverse | Conner Jackson
+April 8 |  | Max McGrath
+
 
 Please send any topic requests to Grace Bosma
 

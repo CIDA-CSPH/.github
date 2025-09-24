@@ -16,7 +16,7 @@ Occur once a month on the second Tuesday of the month at noon. Recordings are sa
 
 Date | Topic | Presenter
 ----| --- | --- 
-April 8 |  | Max McGrath
+
 
 
 Please send any topic requests to Grace Bosma
